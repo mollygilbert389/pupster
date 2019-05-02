@@ -1,0 +1,15 @@
+.img-fluid {
+    margin: auto;
+    height: 500px;
+    width: 600px;
+    margin: 0, auto;
+    border-radius: 8px;
+}
+
+.list-group-item {
+    margin: auto;
+    margin-top: 10px;
+    background-color: black;
+    border-radius: 8px;
+    padding: 10px;
+}
